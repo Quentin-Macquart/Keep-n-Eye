@@ -10,7 +10,7 @@ Here's the website link : https://wizardly-kowalevski-e32068.netlify.app/
 - `Clone this repository`
 - `Write npm i on your terminal`
 
-### Installed exetension
+### Installed exetensions
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
